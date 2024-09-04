@@ -1,6 +1,7 @@
  <H1>AIML LAB ASSIGNMENTS (2303A52325)</H1>
  <BR><BR>
  <BR>
+ <HR>
  <H2>WEEK-1</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/AIML%20LAB%20%20ASSIGNMENTS/aiml_week_1.ipynb
 <BR><BR>
 <BR><BR>
