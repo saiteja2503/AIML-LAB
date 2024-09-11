@@ -18,7 +18,12 @@
 <BR><BR>
 <HR>
 
-<H2>WEEK-5</H2>:
+<H2>WEEK-5</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/aiml_week_5.ipynb
 <BR><BR>
 <HR>
+
+<H2>WEEK-6</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/AIML%20LAB%20%20ASSIGNMENTS/week-6.ipynb
+<BR><BR>
+<HR>
+
 
