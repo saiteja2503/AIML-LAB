@@ -26,7 +26,7 @@
 <BR><BR>
 <HR>
 
-<H2><Week-7</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/Lab07.ipynb
+<H2>Week-7</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/Lab07.ipynb
 <BR>BR>
 <HR>
 
