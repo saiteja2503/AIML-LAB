@@ -35,6 +35,10 @@
 <H2>week-9</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/aiml_lab_week_9.ipynb
 <BR><BR>
 <HR>
+<H2>week-10</H2>:https://github.com/saiteja2503/AIML-LAB/blob/main/aiml_lab_week_10.ipynb
+<BR><BR>
+<HR>
+
 
 
 
